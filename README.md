@@ -3,7 +3,9 @@
 Official repository for the paper **[MedRedFlag: Investigating How LLMs Redirect Misconceptions in Real-World Health Communication](https://arxiv.org/abs/2601.09853)**
 
 ## Dataset
-The MedRedFlag dataset will be released soon. Please check back.
+The MedRedFlag dataset is available at [Duke Research Data Repository](https://research.repository.duke.edu/record/542?ln=en&v=zip).
+
+> **Note:** By downloading this dataset, you agree to have obtained ethics approval from your institution. This is a requirement of the creator of the base dataset [MedRedQA](https://data.csiro.au/collection/csiro:62454) presented by [Nguyen et al. (2023)](https://aclanthology.org/2023.ijcnlp-main.42/).
 
 ## Repository
 This repository present scripts used for the automatic part of MedRedFlag dataset formation, LLM responses generation, and LLM answers evaluation. The examples provided in LLM prompts for dataset formation pipeline are redacted for data privacy (check for `[!!!!!! REDACTED !!!!!!]`).
